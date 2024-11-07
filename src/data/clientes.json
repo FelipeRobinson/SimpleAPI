@@ -1,0 +1,44 @@
+[
+    {
+      "idClie": 10,
+      "cpfClie": "12487945559",
+      "nomeClie": "Guilherme Santos",
+      "dataNiverClie": "1987-10-31T02:00:00.000Z",
+      "emailClie": "gui@gmail.com.br"
+    },
+    {
+      "idClie": 11,
+      "cpfClie": "22222222222",
+      "nomeClie": "Beatriz Segal Guimaraes",
+      "dataNiverClie": "1950-12-10T02:00:00.000Z",
+      "emailClie": "bsegal@cotuca.br"
+    },
+    {
+      "idClie": 2734,
+      "cpfClie": "86785855954",
+      "nomeClie": "Lucas Aguiar Lima",
+      "dataNiverClie": "1978-07-18T03:00:00.000Z",
+      "emailClie": "lucas@gmail.com.br"
+    },
+    {
+      "idClie": 2735,
+      "cpfClie": "66666666666",
+      "nomeClie": "Mia Silva",
+      "dataNiverClie": "1978-10-31T03:00:00.000Z",
+      "emailClie": "mia@gmail.com"
+    },
+    {
+      "idClie": 2736,
+      "cpfClie": "99999999999",
+      "nomeClie": "Eduardo Westphal",
+      "dataNiverClie": "1986-12-03T02:00:00.000Z",
+      "emailClie": "edu@gmail.com"
+    },
+    {
+      "idClie": 2738,
+      "cpfClie": "11111113233",
+      "nomeClie": "José Eduardo Bianchini",
+      "dataNiverClie": "1978-01-18T03:00:00.000Z",
+      "emailClie": "eduze@gmail.com"
+    }
+]
